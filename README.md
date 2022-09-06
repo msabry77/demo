@@ -24,3 +24,4 @@ git commit -m "add the message " to save it localy in your machine
 push
 pull
 
+#thats all
